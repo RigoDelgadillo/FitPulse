@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DgnCJ1y4qLq61e+ojb3CXuAR8UZ4fXSiM1qXuTWKWG6xivoaJGIaPcQGqJpBvXXNNP/A/WHbqv+oLE1DdAdI2Q==",
+  "dgSpecHash": "eBQliL26JDeJ3R4+anytLH3tpXQdxcIqRqluDZNUzr21NQc9VSUBHflfCMaevmKNw9+f5XuECIM+M2ShpFBkrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
+  "projectFilePath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rigo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rigo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",

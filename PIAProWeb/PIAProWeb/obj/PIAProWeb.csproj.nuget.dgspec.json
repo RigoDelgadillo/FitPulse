@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {}
+    "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {
+    "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
         "projectName": "PIAProWeb",
-        "projectPath": "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
+        "projectPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
         "packagesPath": "C:\\Users\\Rigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rigo\\Desktop\\PIAProweb\\PIAProWeb\\PIAProWeb\\obj\\",
+        "outputPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
