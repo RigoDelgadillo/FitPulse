@@ -1,18 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace PIAProWeb.Models.dbModels
 {
-    public partial class GymContext : DbContext
+    public partial class GymContext : IdentityDbContext<ApplicationUser,IdentityRole<int>, int>
     {
         public GymContext()
         {
         }
 
-        public GymContext(DbContextOptions<GymContext> options)
-            : base(options)
+        public GymContext(DbContextOptions<GymContext> options): base(options)
         {
         }
 
@@ -22,21 +23,12 @@ namespace PIAProWeb.Models.dbModels
         public virtual DbSet<GruposMusculare> GruposMusculares { get; set; } = null!;
         public virtual DbSet<MetodoPago> MetodoPagos { get; set; } = null!;
         public virtual DbSet<Peso> Pesos { get; set; } = null!;
-        public virtual DbSet<Role> Roles { get; set; } = null!;
         public virtual DbSet<Rutina> Rutinas { get; set; } = null!;
-        public virtual DbSet<Usuario> Usuarios { get; set; } = null!;
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=Gym;Trusted_Connection=True;");
-            }
-        }
-
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){}
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Compra>(entity =>
             {
                 entity.HasKey(e => e.IdCompra)
@@ -99,17 +91,7 @@ namespace PIAProWeb.Models.dbModels
                     .HasName("PK_Paquetes");
             });
 
-            modelBuilder.Entity<Usuario>(entity =>
-            {
-                entity.HasKey(e => e.IdUsuario)
-                    .HasName("PK_Usuario");
-
-                entity.HasOne(d => d.IdRolNavigation)
-                    .WithMany(p => p.Usuarios)
-                    .HasForeignKey(d => d.IdRol)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_Usuario_Roles1");
-            });
+            
 
             OnModelCreatingPartial(modelBuilder);
         }

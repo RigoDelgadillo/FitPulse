@@ -10,7 +10,7 @@ namespace PIAProWeb.Models.dbModels
     {
         public Role()
         {
-            Usuarios = new HashSet<Usuario>();
+            Usuarios = new HashSet<ApplicationUser>();
         }
 
         [Key]
@@ -22,6 +22,6 @@ namespace PIAProWeb.Models.dbModels
         public string Descripcion { get; set; } = null!;
 
         [InverseProperty("IdRolNavigation")]
-        public virtual ICollection<Usuario> Usuarios { get; set; }
+        public virtual ICollection<ApplicationUser> Usuarios { get; set; }
     }
 }

@@ -30,6 +30,6 @@ namespace PIAProWeb.Models.dbModels
         public virtual Rutina IdPaqueteNavigation { get; set; } = null!;
         [ForeignKey("IdUsuario")]
         [InverseProperty("Compras")]
-        public virtual Usuario IdUsuarioNavigation { get; set; } = null!;
+        public virtual ApplicationUser IdUsuarioNavigation { get; set; } = null!;
     }
 }
