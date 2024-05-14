@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\imagenes\\Administracion.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Administracion.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\imagenes\\Informacion.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Informacion.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\imagenes\\Rutinas.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Rutinas.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
