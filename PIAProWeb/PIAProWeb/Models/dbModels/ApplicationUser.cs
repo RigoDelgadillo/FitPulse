@@ -14,11 +14,9 @@ namespace PIAProWeb.Models.dbModels
         
         public string Apellidos { get; set; } = null!;
         [StringLength(320)]
-        
-        
         public int IdRol { get; set; }
         [Column("Fecha_Inscripcion", TypeName = "datetime")]
-        public DateTime FechaInscripcion { get; set; }
+        public DateTime Fecha_Inscripcion { get; set; }
         public bool EstadoMembresia { get; set; }
 
         [ForeignKey("IdRol")]
