@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #5DADE2;
 }
 
 .col{
@@ -25,6 +26,7 @@ body {
     border: 1px solid black;
     border-radius: 15px;
     padding: 20px;
+    background-color: white;
 }
 .TarjetaMenu img{
     margin: 15px;
@@ -32,4 +34,9 @@ body {
 }
 .TarjetaMenu p{
     font-size:larger;
+}
+
+footer {
+    margin: 0px;
+    background-color: #424949;
 }

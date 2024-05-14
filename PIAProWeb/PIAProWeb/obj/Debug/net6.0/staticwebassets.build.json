@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+zFeORUkNLG8wl1zOJC9WA9yCazwzH3RT5QGm4mmOdE=",
+  "Hash": "tdN49KgHqqfZOtmnayRKdup9LXZLOKrv+a0GkKhw3Sg=",
   "Source": "PIAProWeb",
   "BasePath": "_content/PIAProWeb",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\Informacion.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\imagenes\\Logo FitPulse.jpeg",
+      "SourceId": "PIAProWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\",
+      "BasePath": "_content/PIAProWeb",
+      "RelativePath": "imagenes/Logo FitPulse.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Logo FitPulse.jpeg"
     },
     {
       "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\imagenes\\Rutinas.jpeg",
