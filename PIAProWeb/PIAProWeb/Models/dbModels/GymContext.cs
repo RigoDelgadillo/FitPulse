@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using PIAProWeb.Models.dbModels;
 
 namespace PIAProWeb.Models.dbModels
 {
@@ -97,5 +98,7 @@ namespace PIAProWeb.Models.dbModels
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+        public DbSet<PIAProWeb.Models.dbModels.Role>? Role { get; set; }
     }
 }

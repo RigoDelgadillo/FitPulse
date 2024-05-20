@@ -81,7 +81,7 @@ namespace PIAProWeb.Areas.Identity.Pages.Account
             [Required]
             [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
             [Display(Name = "Apellidos")]
-            public string? Apellidos { get; set; }
+            public string Apellidos { get; set; }
 
             [Required]
             public DateTime? Fecha_Inscripcion { get; set; }
@@ -121,12 +121,15 @@ namespace PIAProWeb.Areas.Identity.Pages.Account
             {
                 var user = CreateUser();
 
+                user.Apellidos = Input.Apellidos;
+                user.Fecha_Inscripcion = (DateTime)Input.Fecha_Inscripcion;
+                user.IdRol = 1;
+
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
-                user.Apellidos = Input.Apellidos;
-                user.Fecha_Inscripcion = (DateTime)Input.Fecha_Inscripcion;
+                
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
