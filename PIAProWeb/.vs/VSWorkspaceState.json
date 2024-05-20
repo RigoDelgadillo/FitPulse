@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\PIAProWeb",
+    "\\PIAProWeb\\Controllers",
     "\\PIAProWeb\\Models",
     "\\PIAProWeb\\Views",
     "\\PIAProWeb\\Views\\Home"
