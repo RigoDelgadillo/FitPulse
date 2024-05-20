@@ -5,6 +5,13 @@
       "PackagePath": "staticwebassets\\PIAProWeb.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
+      "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
+      "PackagePath": "staticwebassets\\css\\Crear.css"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\site.css",
+=======
       "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\crear.css",
       "PackagePath": "staticwebassets\\css\\crear.css"
     },
@@ -26,6 +33,7 @@
     },
     {
       "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\site.css",
+>>>>>>> 8e00250b3b254e1991b4618ac789f09185048979
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
