@@ -1,2 +1,17 @@
 ﻿body {
+    margin-bottom: 50px;
+    background-color: white;
 }
+
+    
+    .de {
+        color: red;
+    }
+
+    .det {
+        color: forestgreen;
+    }
+
+    p {
+        color: white;
+    }
