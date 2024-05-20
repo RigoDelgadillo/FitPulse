@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\PIAProWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\crear.css",
+      "PackagePath": "staticwebassets\\css\\crear.css"
+    },
+    {
+      "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\detalles.css",
+      "PackagePath": "staticwebassets\\css\\detalles.css"
+    },
+    {
+      "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\editar.css",
+      "PackagePath": "staticwebassets\\css\\editar.css"
+    },
+    {
+      "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\eliminar.css",
+      "PackagePath": "staticwebassets\\css\\eliminar.css"
+    },
+    {
+      "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
