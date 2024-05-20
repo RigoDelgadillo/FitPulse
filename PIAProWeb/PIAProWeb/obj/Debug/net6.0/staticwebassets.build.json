@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cu8qljVyTE+t72ngzekMo7haLY/uTpG83HKxFIOeLzA=",
+  "Hash": "zKSTzjakP0/+cHbyhM2ktN+V1pgUsSYSfbIoh/4FuWM=",
   "Source": "PIAProWeb",
   "BasePath": "_content/PIAProWeb",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PIAProWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
+      "SourceId": "PIAProWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\",
+      "BasePath": "_content/PIAProWeb",
+      "RelativePath": "css/Crear.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Crear.css"
     },
     {
       "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\site.css",
