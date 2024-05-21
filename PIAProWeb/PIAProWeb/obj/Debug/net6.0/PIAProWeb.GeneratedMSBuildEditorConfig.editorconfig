@@ -178,11 +178,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8f996ece06ab1037b9de58493e21f1b0843b89f7
 [C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVudUFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Create.cshtml]
+=======
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Create.cshtml]
+=======
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDRutinas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFJ1dGluYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFVzdWFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> 2ec0460da9fee7e171bc63a3c6753bd94536e709
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVudUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Create.cshtml]
+>>>>>>> 8f996ece06ab1037b9de58493e21f1b0843b89f7
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
