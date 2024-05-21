@@ -9,7 +9,8 @@
     "\\PIAProWeb\\Controllers",
     "\\PIAProWeb\\Models",
     "\\PIAProWeb\\Views",
-    "\\PIAProWeb\\Views\\Home"
+    "\\PIAProWeb\\Views\\Home",
+    "\\PIAProWeb\\Views\\Roles"
   ],
   "SelectedNode": "\\PIAProWeb.sln",
   "PreviewInSolutionExplorer": false

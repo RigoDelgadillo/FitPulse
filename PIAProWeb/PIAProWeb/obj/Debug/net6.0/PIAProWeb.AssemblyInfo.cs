@@ -16,11 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a3d283f19b0cc6e993d7f0c892affdfe957e12")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49285bac83a081e8d15261e2f1a61a41dc9783c")]
->>>>>>> 8e00250b3b254e1991b4618ac789f09185048979
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86f225f1d1e35b54aeb7da4b9e8fd3ca981de655")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
