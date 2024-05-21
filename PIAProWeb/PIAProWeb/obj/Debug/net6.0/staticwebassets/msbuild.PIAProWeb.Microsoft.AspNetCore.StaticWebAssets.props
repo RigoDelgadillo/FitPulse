@@ -1,19 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\Crear.css))">
-=======
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\crear.css))">
->>>>>>> a29c70c29043a136caa1f6f58c605b549dbae128
       <SourceType>Package</SourceType>
       <SourceId>PIAProWeb</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/PIAProWeb</BasePath>
-<<<<<<< HEAD
       <RelativePath>css/Crear.css</RelativePath>
-=======
-      <RelativePath>css/crear.css</RelativePath>
->>>>>>> a29c70c29043a136caa1f6f58c605b549dbae128
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -22,11 +14,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-<<<<<<< HEAD
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\Crear.css))</OriginalItemSpec>
-=======
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\crear.css))</OriginalItemSpec>
->>>>>>> a29c70c29043a136caa1f6f58c605b549dbae128
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\detalles.css))">
       <SourceType>Package</SourceType>
