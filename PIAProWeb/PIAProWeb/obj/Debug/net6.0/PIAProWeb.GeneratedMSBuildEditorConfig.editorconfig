@@ -178,11 +178,50 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8f996ece06ab1037b9de58493e21f1b0843b89f7
+>>>>>>> ae79839831e85f16a039f19c758721a643a95af9
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVudUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Create.cshtml]
+<<<<<<< HEAD
+=======
+=======
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Create.cshtml]
+=======
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDRutinas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFJ1dGluYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFVzdWFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> 2ec0460da9fee7e171bc63a3c6753bd94536e709
+>>>>>>> 928d6734979cde69ff11d99c4395e657fe0a607c
+>>>>>>> 2f5a82b39cf15978152fd0c908598a65b9dcc840
 [C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVudUFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Create.cshtml]
+<<<<<<< HEAD
+=======
+>>>>>>> 8f996ece06ab1037b9de58493e21f1b0843b89f7
+>>>>>>> ae79839831e85f16a039f19c758721a643a95af9
+>>>>>>> 2f5a82b39cf15978152fd0c908598a65b9dcc840
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
