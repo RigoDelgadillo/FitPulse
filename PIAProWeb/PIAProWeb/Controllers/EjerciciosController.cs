@@ -47,7 +47,7 @@ namespace PIAProWeb.Controllers
         // GET: Ejercicios/Create
         public IActionResult Create()
         {
-            ViewData["IdGruposMusculares"] = new SelectList(_context.GruposMusculares, "IdGruposMusculares", "IdGruposMusculares");
+            ViewData["IdGruposMusculares"] = new SelectList(_context.GruposMusculares, "IdGruposMusculares", "Musculo");
             return View();
         }
 
@@ -56,11 +56,17 @@ namespace PIAProWeb.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdEjercicio,Nombre,Descripcion,IdGruposMusculares")] Ejercicio ejercicio)
+        public async Task<IActionResult> Create([Bind("IdEjercicio,Nombre,Descripcion,IdGruposMusculares")] EjercicioHR ejercicio)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(ejercicio);
+                Ejercicio ejercicio1 = new Ejercicio
+                {
+                    Nombre = ejercicio.Nombre,
+                    Descripcion = ejercicio.Descripcion,
+                    IdGruposMusculares = ejercicio.IdGruposMusculares
+                };
+                _context.Ejercicios.Add(ejercicio1);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
