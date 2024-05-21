@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Build.Framework;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using PIAProWeb.Models.dbModels;
@@ -18,6 +19,11 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole<int>>(options => opti
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Identity/Account/Logout";
+    options.LoginPath = "/Identity/Account/Login";
+});
 
 
 
