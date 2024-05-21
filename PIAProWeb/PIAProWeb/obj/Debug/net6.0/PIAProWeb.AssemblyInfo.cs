@@ -16,7 +16,27 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+928d6734979cde69ff11d99c4395e657fe0a607c")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f996ece06ab1037b9de58493e21f1b0843b89f7")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec0460da9fee7e171bc63a3c6753bd94536e709")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73d413614cb5bfafa16bf33ad8c143964f355c28")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adde04a14c43481d04383b6fb9ad25188f54e4ac")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd9378d81a6c011b771196cef3ad8a5a7a86bd2")]
+>>>>>>> 73d413614cb5bfafa16bf33ad8c143964f355c28
+>>>>>>> 2ec0460da9fee7e171bc63a3c6753bd94536e709
+>>>>>>> 8f996ece06ab1037b9de58493e21f1b0843b89f7
+>>>>>>> 928d6734979cde69ff11d99c4395e657fe0a607c
+>>>>>>> ae79839831e85f16a039f19c758721a643a95af9
 [assembly: System.Reflection.AssemblyProductAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIAProWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
