@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "zKSTzjakP0/+cHbyhM2ktN+V1pgUsSYSfbIoh/4FuWM=",
-=======
-  "Hash": "TVcLGyBb/bTsah/1yiXhSdEz9CNgGmW3sPFEjruO0+M=",
->>>>>>> 8e00250b3b254e1991b4618ac789f09185048979
+  "Hash": "dgB4VpSzeSuwrp7Jt4WY/Sipc9ZW9J9cuua9I0tKwKU=",
   "Source": "PIAProWeb",
   "BasePath": "_content/PIAProWeb",
   "Mode": "Default",
@@ -1199,11 +1195,10 @@
       "OriginalItemSpec": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PIAProWeb.bundle.scp.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
+      "Identity": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
       "SourceId": "PIAProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\",
       "BasePath": "_content/PIAProWeb",
       "RelativePath": "css/Crear.css",
       "AssetKind": "All",
@@ -1217,28 +1212,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Crear.css"
-    },
-    {
-      "Identity": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\site.css",
-=======
-      "Identity": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\crear.css",
->>>>>>> 8e00250b3b254e1991b4618ac789f09185048979
-      "SourceId": "PIAProWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\",
-      "BasePath": "_content/PIAProWeb",
-      "RelativePath": "css/crear.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\crear.css"
     },
     {
       "Identity": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\detalles.css",

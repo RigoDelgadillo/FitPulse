@@ -242,31 +242,27 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Create.cshtml]
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Delete.cshtml]
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Details.cshtml]
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Edit.cshtml]
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Index.cshtml]
+[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/Error.cshtml]
-=======
 [C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/Error.cshtml]
->>>>>>> 8e00250b3b254e1991b4618ac789f09185048979
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
