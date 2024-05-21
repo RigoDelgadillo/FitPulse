@@ -3,11 +3,21 @@
 @{
     ViewData["Title"] = "Create";
 }
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<link rel="stylesheet" href="~/css/Crear.css" />
+=======
+<link rel="stylesheet" href="css/crear.css">
+=======
+>>>>>>> 73d413614cb5bfafa16bf33ad8c143964f355c28
 
 
 <link rel="stylesheet" href="css/Crear.css">
 
+>>>>>>> adde04a14c43481d04383b6fb9ad25188f54e4ac
 <h1>Create</h1>
 
 <h4>Ejercicio</h4>
@@ -28,7 +38,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="IdGruposMusculares" class="control-label">Musculo</label>
-                <select asp-for="IdGruposMusculares" class="form-control" asp-items="ViewBag.IdGruposMusculares">
+                <select asp-for="IdGruposMusculares" class="form-control" asp-items="ViewBag.IdGruposMusculares as SelectList">
                     <option selected disabled>--Seleccionar--</option>
                 </select>
             </div>

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PIAProWeb.Models.dbModels.EjerciciosRutina>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Series)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Repeticiones)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEjercicioNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdPesoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRutinaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Series)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Repeticiones)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEjercicioNavigation.IdEjercicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPesoNavigation.IdPeso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdRutinaNavigation.IdRutina)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

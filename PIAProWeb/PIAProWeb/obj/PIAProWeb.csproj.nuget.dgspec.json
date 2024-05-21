@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {}
+    "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {
+    "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
         "projectName": "PIAProWeb",
-        "projectPath": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
-        "packagesPath": "C:\\Users\\benit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\obj\\",
+        "projectPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\PIAProWeb.csproj",
+        "packagesPath": "C:\\Users\\Rigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\benit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

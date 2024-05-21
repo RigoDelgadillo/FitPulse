@@ -194,6 +194,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0ZURlVmVudGFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/EjerciciosRutinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1J1dGluYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -47,6 +47,7 @@ namespace PIAProWeb.Controllers
         // GET: GruposMusculares/Create
         public IActionResult Create()
         {
+            ViewData["IdGruposMusculares"] = new SelectList(_context.GruposMusculares, "IdGruposMusculares", "Musculo");
             return View();
         }
 
