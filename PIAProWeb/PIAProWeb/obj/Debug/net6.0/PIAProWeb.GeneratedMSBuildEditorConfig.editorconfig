@@ -9,240 +9,244 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PIAProWeb
 build_property.RootNamespace = PIAProWeb
-build_property.ProjectDir = C:\Users\benit\Desktop\FitPulse\PIAProWeb\PIAProWeb\
+build_property.ProjectDir = C:\Users\Rigo\Desktop\FitPulse\PIAProWeb\PIAProWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\benit\Desktop\FitPulse\PIAProWeb\PIAProWeb
+build_property.MSBuildProjectDirectory = C:\Users\Rigo\Desktop\FitPulse\PIAProWeb\PIAProWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDRutinas.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDRutinas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFJ1dGluYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDUsuarios.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/CRUDUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ1JVRFVzdWFyaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/MenuAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVudUFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/ReporteDeVentas.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Admin/ReporteDeVentas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0ZURlVmVudGFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Create.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Delete.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Details.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Edit.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Index.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Ejercicios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Create.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zTXVzY3VsYXJlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Delete.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zTXVzY3VsYXJlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Details.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zTXVzY3VsYXJlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Edit.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zTXVzY3VsYXJlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Index.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/GruposMusculares/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zTXVzY3VsYXJlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Home/Index.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Create.cshtml]
+=======
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Roles/Create.cshtml]
+>>>>>>> a29c70c29043a136caa1f6f58c605b549dbae128
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
@@ -262,46 +266,50 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/Error.cshtml]
+=======
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/Error.cshtml]
+>>>>>>> a29c70c29043a136caa1f6f58c605b549dbae128
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Create.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Delete.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Details.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Edit.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Index.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/_ViewStart.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/benit/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Rigo/Desktop/FitPulse/PIAProWeb/PIAProWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hburppg6ef
