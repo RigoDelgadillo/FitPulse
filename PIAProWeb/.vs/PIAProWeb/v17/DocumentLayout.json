@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejerciciosrutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\ejerciciosrutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejerciciorutinahr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejerciciorutinahr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejerciciosrutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejerciciosrutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejerciciosrutinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejerciciosrutinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +46,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFsAAAAUAAAA",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\EjerciciosRutinas\\Create.cshtml",
+              "RelativeDocumentMoniker": "PIAProWeb\\Views\\EjerciciosRutinas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\EjerciciosRutinas\\Create.cshtml",
+              "RelativeToolTip": "PIAProWeb\\Views\\EjerciciosRutinas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T03:01:18.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "PIAProWeb\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:00:19.45Z",
+              "WhenOpened": "2024-05-21T03:17:21.552Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T02:58:52.323Z",
+              "Title": "EjerciciosRutinasController.cs",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
+              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
+              "RelativeToolTip": "PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:15:35.357Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EjerciciosController.cs",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
               "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\EjerciciosController.cs",
               "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
               "RelativeToolTip": "PIAProWeb\\Controllers\\EjerciciosController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwEQAAAA0AAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwD4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T01:50:51.128Z",
+              "WhenOpened": "2024-05-21T03:37:50.051Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "EjercicioRutinaHR.cs",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjercicioRutinaHR.cs",
+              "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\EjercicioRutinaHR.cs",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjercicioRutinaHR.cs",
+              "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\EjercicioRutinaHR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:37:00.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EjerciciosRutina.cs",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjerciciosRutina.cs",
+              "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\EjerciciosRutina.cs",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjerciciosRutina.cs",
+              "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\EjerciciosRutina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:37:10.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
               "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
               "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
               "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAB/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T01:39:12.558Z"
+              "WhenOpened": "2024-05-21T03:16:53.485Z",
+              "EditorCaption": ""
             }
           ]
         }

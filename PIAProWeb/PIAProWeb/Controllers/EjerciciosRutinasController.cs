@@ -49,9 +49,9 @@ namespace PIAProWeb.Controllers
         // GET: EjerciciosRutinas/Create
         public IActionResult Create()
         {
-            ViewData["IdEjercicio"] = new SelectList(_context.Ejercicios, "IdEjercicio", "IdEjercicio");
+            ViewData["IdEjercicio"] = new SelectList(_context.Ejercicios, "IdEjercicio", "Nombre");
             ViewData["IdPeso"] = new SelectList(_context.Pesos, "IdPeso", "IdPeso");
-            ViewData["IdRutina"] = new SelectList(_context.Rutinas, "IdRutina", "IdRutina");
+            ViewData["IdRutina"] = new SelectList(_context.Rutinas, "IdRutina", "Nombre");
             return View();
         }
 
@@ -60,11 +60,19 @@ namespace PIAProWeb.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdEjercicio,IdRutina,Series,Repeticiones,IdPeso")] EjerciciosRutina ejerciciosRutina)
+        public async Task<IActionResult> Create([Bind("IdEjercicio,IdRutina,Series,Repeticiones,IdPeso")] EjercicioRutinaHR ejerciciosRutina)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(ejerciciosRutina);
+                EjerciciosRutina ejerciciorutina1 = new EjerciciosRutina
+                {
+                    IdEjercicio = ejerciciosRutina.IdEjercicio,
+                    IdRutina = ejerciciosRutina.IdRutina,
+                    Series = ejerciciosRutina.Series,
+                    Repeticiones = ejerciciosRutina.Repeticiones,
+                    IdPeso = ejerciciosRutina.IdPeso
+                };
+                _context.EjerciciosRutinas.Add(ejerciciorutina1);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

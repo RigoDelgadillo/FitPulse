@@ -6,7 +6,8 @@
     "\\PIAProWeb\\Models",
     "\\PIAProWeb\\Models\\dbModels",
     "\\PIAProWeb\\Views",
-    "\\PIAProWeb\\Views\\Ejercicios"
+    "\\PIAProWeb\\Views\\Ejercicios",
+    "\\PIAProWeb\\Views\\Shared"
   ],
   "SelectedNode": "\\PIAProWeb.sln",
   "PreviewInSolutionExplorer": false
