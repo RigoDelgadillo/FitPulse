@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\gruposmuscularescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejerciciohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejerciciohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Ejercicio.cs",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
               "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:04:18.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T02:04:18.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EjercicioHR.cs",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
               "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:03:39.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T02:03:39.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EjerciciosController.cs",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
               "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\EjerciciosController.cs",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "PIAProWeb\\Controllers\\EjerciciosController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAwwEQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T01:50:51.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T01:50:51.128Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T01:39:12.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T01:39:12.558Z"
             }
           ]
         }
