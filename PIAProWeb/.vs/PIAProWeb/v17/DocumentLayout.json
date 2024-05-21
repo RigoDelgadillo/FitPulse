@@ -1,27 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejerciciosrutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\ejerciciosrutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\gruposmuscularescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\gruposmuscularescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\models\\dbmodels\\ejerciciohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\models\\dbmodels\\ejerciciohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,93 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\rigo\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\gruposmusculares\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\gruposmusculares\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\gruposmusculares\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\gruposmusculares\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\gruposmusculares\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\gruposmusculares\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\wwwroot\\css\\detalles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\wwwroot\\css\\detalles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\wwwroot\\css\\eliminar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\wwwroot\\css\\eliminar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\ejercicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\ejercicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\gruposmusculares\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\gruposmusculares\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\gruposmusculares\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\gruposmusculares\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\wwwroot\\css\\crear.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\wwwroot\\css\\crear.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.205\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\wwwroot\\css\\editar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\gruposmuscularescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\gruposmuscularescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|c:\\users\\benit\\desktop\\fitpulse\\piaproweb\\piaproweb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21C594A-E594-4059-A845-C2BD33A191D0}|PIAProWeb\\PIAProWeb.csproj|solutionrelative:piaproweb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> adde04a14c43481d04383b6fb9ad25188f54e4ac
     }
   ],
   "DocumentGroupContainers": [
@@ -126,8 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -139,331 +42,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EjerciciosRutinasController.cs",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
-              "RelativeToolTip": "PIAProWeb\\Controllers\\EjerciciosRutinasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:45:32.058Z",
-              "EditorCaption": ""
-=======
-          "SelectedChildIndex": 7,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\index.css",
-              "RelativeDocumentMoniker": "PIAProWeb\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\index.css",
-              "RelativeToolTip": "PIAProWeb\\wwwroot\\css\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T02:27:07.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "detalles.css",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\detalles.css",
-              "RelativeDocumentMoniker": "PIAProWeb\\wwwroot\\css\\detalles.css",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\detalles.css",
-              "RelativeToolTip": "PIAProWeb\\wwwroot\\css\\detalles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T02:26:44.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Details.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\GruposMusculares\\Details.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Details.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\GruposMusculares\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T02:05:52.686Z"
->>>>>>> adde04a14c43481d04383b6fb9ad25188f54e4ac
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABKAAAA",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "PIAProWeb\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T02:36:06.979Z",
+              "WhenOpened": "2024-05-21T03:01:18.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GruposMuscularesController.cs",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "RelativeToolTip": "PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDIAAAAaAAAA",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PIAProWeb\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:15:45.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicio.cs",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
-              "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\Ejercicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:04:18.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EjercicioHR.cs",
-              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
-              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
-              "RelativeToolTip": "PIAProWeb\\Models\\dbModels\\EjercicioHR.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:03:39.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-=======
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T19:30:57.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Details.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Details.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Details.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T02:05:15.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Edit.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T01:49:41.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Index.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\GruposMusculares\\Index.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Index.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\GruposMusculares\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T19:37:55.073Z",
+              "WhenOpened": "2024-05-21T03:00:19.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PIAProWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T06:05:54.122Z",
+              "WhenOpened": "2024-05-21T02:58:52.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "eliminar.css",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\eliminar.css",
-              "RelativeDocumentMoniker": "PIAProWeb\\wwwroot\\css\\eliminar.css",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\eliminar.css",
-              "RelativeToolTip": "PIAProWeb\\wwwroot\\css\\eliminar.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T02:26:16.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\GruposMusculares\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Edit.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\GruposMusculares\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T02:08:58.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\GruposMusculares\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Delete.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\GruposMusculares\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T00:46:43.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Crear.css",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
-              "RelativeDocumentMoniker": "PIAProWeb\\wwwroot\\css\\Crear.css",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\Crear.css",
-              "RelativeToolTip": "PIAProWeb\\wwwroot\\css\\Crear.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T02:25:47.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Delete.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Ejercicios\\Delete.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T00:45:15.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Create.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\GruposMusculares\\Create.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\GruposMusculares\\Create.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\GruposMusculares\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T01:52:26.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "PIAProWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\appsettings.json",
-              "RelativeToolTip": "PIAProWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-12T14:48:46.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.205\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.205\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ViewState": "AQIAAM4BAAAAAAAAAAAhwNoBAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-21T00:05:33.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "editar.css",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\editar.css",
-              "RelativeDocumentMoniker": "PIAProWeb\\wwwroot\\css\\editar.css",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\wwwroot\\css\\editar.css",
-              "RelativeToolTip": "PIAProWeb\\wwwroot\\css\\editar.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T02:27:31.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T15:23:08.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PIAProWeb\\Views\\Users\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Users\\Delete.cshtml",
-              "RelativeToolTip": "PIAProWeb\\Views\\Users\\Delete.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T21:22:34.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GruposMuscularesController.cs",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "RelativeToolTip": "PIAProWeb\\Controllers\\GruposMuscularesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T00:24:33.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
->>>>>>> adde04a14c43481d04383b6fb9ad25188f54e4ac
+              "DocumentIndex": 3,
               "Title": "EjerciciosController.cs",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
               "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\EjerciciosController.cs",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
+              "ToolTip": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\EjerciciosController.cs",
               "RelativeToolTip": "PIAProWeb\\Controllers\\EjerciciosController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAwwEQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-05-21T01:50:51.128Z"
+              "WhenOpened": "2024-05-21T01:50:51.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Rigo\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
               "RelativeDocumentMoniker": "PIAProWeb\\Views\\Ejercicios\\Create.cshtml",
@@ -472,21 +103,6 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T01:39:12.558Z"
-=======
-              "WhenOpened": "2024-05-20T00:33:59.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "PIAProWeb\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\benit\\Desktop\\FitPulse\\PIAProWeb\\PIAProWeb\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "PIAProWeb\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T00:03:29.922Z"
->>>>>>> adde04a14c43481d04383b6fb9ad25188f54e4ac
             }
           ]
         }

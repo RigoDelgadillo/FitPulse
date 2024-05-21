@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\PIAProWeb",
-    "\\PIAProWeb\\Areas\\Identity",
-    "\\PIAProWeb\\Areas\\Identity\\Pages",
-    "\\PIAProWeb\\Areas\\Identity\\Pages\\Account",
     "\\PIAProWeb\\Controllers",
     "\\PIAProWeb\\Models",
+    "\\PIAProWeb\\Models\\dbModels",
     "\\PIAProWeb\\Views",
     "\\PIAProWeb\\Views\\Ejercicios"
   ],
