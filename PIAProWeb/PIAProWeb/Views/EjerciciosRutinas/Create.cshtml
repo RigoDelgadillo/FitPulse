@@ -1,0 +1,50 @@
+﻿@model PIAProWeb.Models.dbModels.EjerciciosRutina
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EjerciciosRutina</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdEjercicio" class="control-label"></label>
+                <select asp-for="IdEjercicio" class ="form-control" asp-items="ViewBag.IdEjercicio"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdRutina" class="control-label"></label>
+                <select asp-for="IdRutina" class ="form-control" asp-items="ViewBag.IdRutina"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Series" class="control-label"></label>
+                <input asp-for="Series" class="form-control" />
+                <span asp-validation-for="Series" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Repeticiones" class="control-label"></label>
+                <input asp-for="Repeticiones" class="form-control" />
+                <span asp-validation-for="Repeticiones" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdPeso" class="control-label"></label>
+                <select asp-for="IdPeso" class ="form-control" asp-items="ViewBag.IdPeso"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
