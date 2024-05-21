@@ -13,19 +13,19 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Series)
+                <h5>Rutina</h5>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Repeticiones)
+                <h5>Nombre Del Ejercicio</h5>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdEjercicioNavigation)
+                <h5>Series</h5>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdPesoNavigation)
+                <h5>Repeticiones</h5>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdRutinaNavigation)
+                <h5>Series</h5>
             </th>
             <th></th>
         </tr>
@@ -34,19 +34,19 @@
 @foreach (var item in Model) {
         <tr>
             <td>
+                @Html.DisplayFor(modelItem => item.IdRutinaNavigation.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEjercicioNavigation.Nombre)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Series)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Repeticiones)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdEjercicioNavigation.IdEjercicio)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdPesoNavigation.IdPeso)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdRutinaNavigation.IdRutina)
+                @Html.DisplayFor(modelItem => item.IdPesoNavigation.Peso1)
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |

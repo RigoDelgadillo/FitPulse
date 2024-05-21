@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>CRUD USUSARIOS</h1>
 
 <p>
-    <a class="btn btn-primary"  asp-action="Create">Create New</a>
+    <a class="btn btn-primary"  asp-action="Create">Crear Nuevo Usuario</a>
 </p>
 <table class="table">
     <thead>
@@ -82,7 +82,7 @@
                 @Html.DisplayFor(modelItem => item.EstadoMembresia)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdRolNavigation.IdRol)
+                @Html.DisplayFor(modelItem => item.IdRolNavigation.Rol)
             </td>@* 
             <td>
                 @Html.DisplayFor(modelItem => item.UserName)
@@ -127,9 +127,9 @@
                 @Html.DisplayFor(modelItem => item.AccessFailedCount)
             </td> *@
             <td>
-                <a class="btn btn-warning"  asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
-                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a> 
-                <a class ="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a class="btn btn-warning"  asp-action="Edit" asp-route-id="@item.Id">Editar</a> 
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a> 
+                <a class ="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
             </td>
         </tr>
 }
