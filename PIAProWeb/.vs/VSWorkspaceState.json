@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\PIAProWeb",
-    "\\PIAProWeb\\Controllers",
     "\\PIAProWeb\\Models",
     "\\PIAProWeb\\Models\\dbModels",
     "\\PIAProWeb\\Views",
     "\\PIAProWeb\\Views\\Admin",
     "\\PIAProWeb\\Views\\Ejercicios",
+    "\\PIAProWeb\\Views\\EjerciciosRutinas",
+    "\\PIAProWeb\\Views\\Home",
     "\\PIAProWeb\\Views\\Shared"
   ],
   "SelectedNode": "\\PIAProWeb.sln",
