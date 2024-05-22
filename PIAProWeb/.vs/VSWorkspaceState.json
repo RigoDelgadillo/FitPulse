@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\PIAProWeb",
-    "\\PIAProWeb\\Models",
-    "\\PIAProWeb\\Models\\dbModels",
     "\\PIAProWeb\\Views",
     "\\PIAProWeb\\Views\\Admin",
     "\\PIAProWeb\\Views\\Compras",
     "\\PIAProWeb\\Views\\Ejercicios",
     "\\PIAProWeb\\Views\\EjerciciosRutinas",
     "\\PIAProWeb\\Views\\Home",
-    "\\PIAProWeb\\Views\\Shared"
+    "\\PIAProWeb\\Views\\Shared",
+    "\\PIAProWeb\\Views\\Users"
   ],
   "SelectedNode": "\\PIAProWeb.sln",
   "PreviewInSolutionExplorer": false
